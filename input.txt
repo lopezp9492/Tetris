@@ -1,0 +1,10 @@
+#DirectPower/SupportPower/Resistance/Income/Alignment1/Alignment2/Alignment3/ArrowsUDLR/CardName
+#Dp/Sp/Re/In/a1	/a2	/a3	/Arrows		/Name							/image_file_name
+8	/8	/n	/8		/null	/null	/null	/oooo		/The Society of Assassins	/
+7	/7	/n	/9		/null	/null	/null 	/oooo 		/The Network					/
+8	/8	/n	/8		/null	/null	/null	/oooo		/The Discordian Society	/
+6	/6	/n	/8		/null	/null	/null	/oooo		/The UFOs						/
+9	/9	/n	/7		/null	/null	/null	/oooo		/The Servants of Cthulhu	/
+7	/7	/n	/12	/null	/null	/null	/oooo		/The Gnomes of Zurich	/
+10/10/n	/9		/null	/null	/null	/oooo		/The Bavarian Illuminati	/
+8	/8	/n	/9		/null	/null	/null	/oooo		/The Bermuda Triangle	/

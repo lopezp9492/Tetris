@@ -1,0 +1,34 @@
+todo:
+#quick features
+	Square shine.
+
+#feature
+	
+	next shape panel
+	statistics panel
+	score panel
+	oponent panel - mini view?
+	
+	
+#
+	block characters
+	block text
+	Square "Rain", one falling grey block per line completed, at random column in window
+	quad 3d view
+
+#Astro Punk Retro
+	#Procedural Generation
+		#spawn interval
+		#colummn height inteval
+	#paralax backgrounds 
+		#far - slow
+		#middle - slightly faster 
+		#char, columns  - regular speed
+		#foreground  - fast
+	#alt grephics - womp block
+#pacman
+#metroid
+#mario
+
+#alternating stages 
+

@@ -1,0 +1,29 @@
+odot:
+	Add Random Shape Spawn
+	Add different color to each shape, alternate transparencies.
+	fastfall (press space)
+	player instance
+		grid
+		tetromino
+		controls
+	classes
+		square
+		tetromino
+			Tshape
+			Oshape
+			Ishape
+			Sshape
+			Zshape
+			Lshape
+			Jshape
+			Pshape
+		grid
+		background
+	controls
+	rotation
+	collision detection
+	grid.clearFullLines()
+
+#features
+	#second player	
+	#ghost shape 

@@ -1,0 +1,5 @@
+BRUSHSCI.TTF
+font  = pygame.font.Font("C:/Windows/Fonts/BRUSHSCI.TTF", 25)
+score = 100
+text  = font.render("Score: " +str(score), True, black)
+screen.blit(text, position)

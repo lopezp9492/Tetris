@@ -1,0 +1,13 @@
+# Define some colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREY = (118, 122, 121)#T
+DARK_GREY = (61, 64, 68)#P
+SILVER = (192, 204, 202 )#I
+
+RED = (155, 72, 57)#Z
+GREEN = (62, 155, 57)#S
+BLUE = (57,100,155)#O
+
+YELLOW = (206, 209, 80)#L
+ORANGE = (209, 116, 81)#J
